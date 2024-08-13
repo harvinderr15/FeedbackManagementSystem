@@ -1,6 +1,3 @@
-Sure! Here's a README for your project based on the provided code snippets. You can adjust or expand it according to the specific needs and context of your project.
-
----
 
 # Course Management System (FMS)
 
